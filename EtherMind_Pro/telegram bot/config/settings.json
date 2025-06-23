@@ -1,0 +1,13 @@
+{
+  "INDICATORS": {
+    "RSI": true,
+    "MACD": true,
+    "BOLLINGER": true,
+    "EMA200": true,
+    "STOCHASTIC": true,
+    "ATR": true
+  },
+  "USE_ML_FORECAST": true,
+  "USE_NEWS_FILTER": true,
+  "AUTO_EXECUTE": false
+}
